@@ -4,9 +4,8 @@ function init(keydown) {
   // Write your JavaScript code inside the init() function
   if(keydown == 'code')
   
-  const code = document.getElementByID('code')
-  
   code.addEventListener('keydown', function (event) { alert ('Congratulations!')
+  
   
 
 }
