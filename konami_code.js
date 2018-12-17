@@ -6,16 +6,4 @@ function init(keydown) {
   
   code.addEventListener('keydown', function (event) { alert ('Congratulations!')
   
-  
-
-}
-}
-
-
-function eventHandler(event) {
-  if (event.type == 'fullscreenchange') {
-    /* handle a full screen toggle */
-  } else /* fullscreenerror */ {
-    /* handle a full screen toggle error */
   }
-}
