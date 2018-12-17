@@ -4,7 +4,8 @@ function init() {
   // Write your JavaScript code inside the init() function
   const code = document.getElementByID('code')
   
-  code.addEventListener('keydown', function (event) { alert ('Congratulations!)') )
+  code.addEventListener('keydown', function (event) { alert ('Congratulations!')
   
 
+}
 }
